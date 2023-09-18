@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf5d70f-c396-4775-a40b-4f8b1dcf570c" name="Changes" comment="build">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7cf5d70f-c396-4775-a40b-4f8b1dcf570c" name="Changes" comment="images" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +55,12 @@
       </map>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\כרמל\Desktop\screen-sphere\public" />
+      <recent name="C:\Users\כרמל\Desktop\screen-sphere\AppScreensAndPoster" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -82,7 +86,7 @@
       <updated>1694436788554</updated>
       <workItem from="1694436792372" duration="14253000" />
       <workItem from="1694517972666" duration="15194000" />
-      <workItem from="1695048622237" duration="781000" />
+      <workItem from="1695048622237" duration="1236000" />
     </task>
     <task id="LOCAL‎-00001" summary="build">
       <created>1694767630594</created>
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1694767630594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="images">
+      <created>1695049512205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1695049512205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build" />
-    <option name="LAST_COMMIT_MESSAGE" value="build" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
