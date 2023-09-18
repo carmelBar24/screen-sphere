@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cf5d70f-c396-4775-a40b-4f8b1dcf570c" name="Changes" comment="build">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
       <updated>1694436788554</updated>
       <workItem from="1694436792372" duration="14253000" />
       <workItem from="1694517972666" duration="15194000" />
+      <workItem from="1695048622237" duration="781000" />
     </task>
     <task id="LOCAL‎-00001" summary="build">
       <created>1694767630594</created>
@@ -117,7 +118,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/SingleContent/SingleContent.js</url>
           <line>7</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
