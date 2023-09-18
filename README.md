@@ -2,8 +2,7 @@
   <a href="https://github.com/carmelBar24/Foody">
     <img src="AppScreensAndPoster/logo.png" alt="Logo"> 
 <p align ="center"> 
-<i>A Responsive Food Blog Website using <a href="https://nodejs.org/en">Node js💕</a> & <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JS🔥</a>&<a href="https://www.mysql.com/">My SQL🐬</a> </i>
-<br><br>
+<i>A Search Engine-Web App using <a href="https://react.dev">React 💕</a></i>
   
 ## About the Web App 🎥
 
