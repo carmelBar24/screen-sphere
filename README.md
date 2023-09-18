@@ -19,11 +19,8 @@
 ## Pages 😍
 <p>
   <img src="public/AppScreensAndPoster/trending.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
   <img src="public/AppScreensAndPoster/movies.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
   <img src="public/AppScreensAndPoster/tv.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
   <img src="public/AppScreensAndPoster/search.png" height="400" style="display: block; margin: 0 auto; text-align: center;"hspace="20" />
 </p>
 
